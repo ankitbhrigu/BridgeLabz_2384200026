@@ -1,0 +1,14 @@
+C:\Users\Ankit Singh\OneDrive\Desktop\CSharp\Assignment_02\bin\Debug\net8.0\Assignment_02.exe
+C:\Users\Ankit Singh\OneDrive\Desktop\CSharp\Assignment_02\bin\Debug\net8.0\Assignment_02.deps.json
+C:\Users\Ankit Singh\OneDrive\Desktop\CSharp\Assignment_02\bin\Debug\net8.0\Assignment_02.runtimeconfig.json
+C:\Users\Ankit Singh\OneDrive\Desktop\CSharp\Assignment_02\bin\Debug\net8.0\Assignment_02.dll
+C:\Users\Ankit Singh\OneDrive\Desktop\CSharp\Assignment_02\bin\Debug\net8.0\Assignment_02.pdb
+C:\Users\Ankit Singh\OneDrive\Desktop\CSharp\Assignment_02\obj\Debug\net8.0\Assignment_02.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Ankit Singh\OneDrive\Desktop\CSharp\Assignment_02\obj\Debug\net8.0\Assignment_02.AssemblyInfoInputs.cache
+C:\Users\Ankit Singh\OneDrive\Desktop\CSharp\Assignment_02\obj\Debug\net8.0\Assignment_02.AssemblyInfo.cs
+C:\Users\Ankit Singh\OneDrive\Desktop\CSharp\Assignment_02\obj\Debug\net8.0\Assignment_02.csproj.CoreCompileInputs.cache
+C:\Users\Ankit Singh\OneDrive\Desktop\CSharp\Assignment_02\obj\Debug\net8.0\Assignment_02.dll
+C:\Users\Ankit Singh\OneDrive\Desktop\CSharp\Assignment_02\obj\Debug\net8.0\refint\Assignment_02.dll
+C:\Users\Ankit Singh\OneDrive\Desktop\CSharp\Assignment_02\obj\Debug\net8.0\Assignment_02.pdb
+C:\Users\Ankit Singh\OneDrive\Desktop\CSharp\Assignment_02\obj\Debug\net8.0\Assignment_02.genruntimeconfig.cache
+C:\Users\Ankit Singh\OneDrive\Desktop\CSharp\Assignment_02\obj\Debug\net8.0\ref\Assignment_02.dll
