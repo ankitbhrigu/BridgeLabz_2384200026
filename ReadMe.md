@@ -11,3 +11,6 @@ Asssignment 3, solutions of control flow upload on 23/01/2025
 
 Task 4:
 Assignment 4, solutions of array concept uploaded on 25/01/2025
+
+Task 5:
+Assignment 5, solutions of methods uploaded on 28/01/2025
