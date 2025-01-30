@@ -14,3 +14,6 @@ Assignment 4, solutions of array concept uploaded on 25/01/2025
 
 Task 5:
 Assignment 5, solutions of methods uploaded on 28/01/2025
+
+Task 6:
+Assignment 6, solutions of string problems uploaded on 30/01/2025
