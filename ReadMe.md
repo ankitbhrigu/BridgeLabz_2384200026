@@ -17,3 +17,6 @@ Assignment 5, solutions of methods uploaded on 28/01/2025
 
 Task 6:
 Assignment 6, solutions of string problems uploaded on 30/01/2025
+
+Task 7:
+Assignment 7, solutions of Date and Time, Functions uploaded on 31/01/2025
