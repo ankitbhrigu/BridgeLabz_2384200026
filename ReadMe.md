@@ -20,3 +20,6 @@ Assignment 6, solutions of string problems uploaded on 30/01/2025
 
 Task 7:
 Assignment 7, solutions of Date and Time, Functions uploaded on 31/01/2025
+
+Task 8:
+Assignment 8, solutions of Class and object Level 1 uploaded on 01/02/2025
