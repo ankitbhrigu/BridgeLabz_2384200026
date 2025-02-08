@@ -32,3 +32,6 @@ Assignment 10, solutions of keywords and operators uploaded on 04/02/2025
 
 Task 11:
 Assignment 11, solutions of object modelling uploaded on 06/02/2025
+
+Task 12:
+Assignment 12, solutions of inheritence assignment uploaded on 08/02/2025
