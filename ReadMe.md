@@ -35,3 +35,6 @@ Assignment 11, solutions of object modelling uploaded on 06/02/2025
 
 Task 12:
 Assignment 12, solutions of inheritence assignment uploaded on 08/02/2025
+
+Task 13:
+Assignment 13, solutions of Polymorphism, Encapsulation, Interface uploaded on 10/02/2025
