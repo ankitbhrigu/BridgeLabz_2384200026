@@ -41,3 +41,6 @@ Assignment 13, solutions of Polymorphism, Encapsulation, Interface uploaded on 1
 
 Task 14:
 Assignment 14, solutions of Linked List uploaded on 12/02/2025
+
+Task 15:
+Assignment 15, solutios of Stack, Queue and HashMap uploaded on 13/02/2025
