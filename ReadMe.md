@@ -44,3 +44,6 @@ Assignment 14, solutions of Linked List uploaded on 12/02/2025
 
 Task 15:
 Assignment 15, solutios of Stack, Queue and HashMap uploaded on 13/02/2025
+
+Task 16:
+Assignment 16, solutions of Sorting Algorithm uploaded on 14/02/2025 
