@@ -47,3 +47,6 @@ Assignment 15, solutios of Stack, Queue and HashMap uploaded on 13/02/2025
 
 Task 16:
 Assignment 16, solutions of Sorting Algorithm uploaded on 14/02/2025 
+
+Task 17: 
+Assignment 17, solutions of Linear and Binary Search, StringBuilder, StringReader, StringWriter uploaded on 16/02/2025
