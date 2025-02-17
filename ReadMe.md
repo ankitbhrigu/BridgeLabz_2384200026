@@ -50,3 +50,6 @@ Assignment 16, solutions of Sorting Algorithm uploaded on 14/02/2025
 
 Task 17: 
 Assignment 17, solutions of Linear and Binary Search, StringBuilder, StringReader, StringWriter uploaded on 16/02/2025
+
+Task 18:
+Assignment 18, solutions of Time and Space Analysis uploaded on 17/02/2025
