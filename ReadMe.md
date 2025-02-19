@@ -56,3 +56,6 @@ Assignment 18, solutions of Time and Space Analysis uploaded on 17/02/2025
 
 Task 19:
 Assignment 19, solutions of Generics Assignment uploaded on 18/02/2025
+
+Task 20:
+Assignment 20, solutions of Collection Assignment uploaded on 19/02/2025
