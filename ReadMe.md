@@ -59,3 +59,6 @@ Assignment 19, solutions of Generics Assignment uploaded on 18/02/2025
 
 Task 20:
 Assignment 20, solutions of Collection Assignment uploaded on 19/02/2025
+
+Task 21:
+Assignment 21, solutions of Streams Assignment uploaded on 20/02/2025
