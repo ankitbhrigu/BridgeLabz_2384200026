@@ -62,3 +62,6 @@ Assignment 20, solutions of Collection Assignment uploaded on 19/02/2025
 
 Task 21:
 Assignment 21, solutions of Streams Assignment uploaded on 20/02/2025
+
+Task 22:
+Assignment 22, solutions of Exception Handling Assignment uploaded on 21/02/2025
