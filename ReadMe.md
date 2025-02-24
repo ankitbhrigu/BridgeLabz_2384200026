@@ -65,3 +65,9 @@ Assignment 21, solutions of Streams Assignment uploaded on 20/02/2025
 
 Task 22:
 Assignment 22, solutions of Exception Handling Assignment uploaded on 21/02/2025
+
+Task 23:
+Assignment 23, solutions of Regex and Unit Testing uploaded on 22/02/2025
+
+Task 24:
+Assignment 24, solutions of Annotations and Reflections uploaded on 24/02/2025
