@@ -71,3 +71,6 @@ Assignment 23, solutions of Regex and Unit Testing uploaded on 22/02/2025
 
 Task 24:
 Assignment 24, solutions of Annotations and Reflections uploaded on 24/02/2025
+
+Task 25:
+Assignment 25, solutions of CSV Data Handling Assignment uploaded on 25/02/2025
