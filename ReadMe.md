@@ -74,3 +74,6 @@ Assignment 24, solutions of Annotations and Reflections uploaded on 24/02/2025
 
 Task 25:
 Assignment 25, solutions of CSV Data Handling Assignment uploaded on 25/02/2025
+
+Task 26:
+Assignment 26, solutions of JSON Assignment uploaded on 26/02/2025
