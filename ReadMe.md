@@ -80,3 +80,6 @@ Assignment 26, solutions of JSON Assignment uploaded on 26/02/2025
 
 Task 27:
 Assignment 27, solutions of Web API Assignment uploaded on 28/02/2025
+
+Task 28:
+Assignment 28, solution of Web API Assignment uploaded on 02/03/2025
