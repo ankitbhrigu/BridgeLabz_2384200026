@@ -86,3 +86,6 @@ Assignment 28, solution of Web API Assignment uploaded on 02/03/2025
 
 Task 29:
 Assignment 29, solution of API Swagger and Logger Implementation Assignment uploaded on 03/03/2025
+
+Task 30:
+Assignment 30, solution of Rest API Assignment uploaded on 04/03/2025
