@@ -1,0 +1,307 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Ankit Singh\\source\\repos\\UserRegistration\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{83ADD9B6-568F-41C0-BE27-8747C55D2D05}|RepositoryLayer\\RepositoryLayer.csproj|c:\\users\\ankit singh\\source\\repos\\userregistration\\repositorylayer\\migrations\\20250306182446_initialcreate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{83ADD9B6-568F-41C0-BE27-8747C55D2D05}|RepositoryLayer\\RepositoryLayer.csproj|solutionrelative:repositorylayer\\migrations\\20250306182446_initialcreate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6D16D4A0-4DA6-49B5-BEBE-AAD1DE4C8EB5}|UserRegistration\\UserRegistration.csproj|c:\\users\\ankit singh\\source\\repos\\userregistration\\userregistration\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{6D16D4A0-4DA6-49B5-BEBE-AAD1DE4C8EB5}|UserRegistration\\UserRegistration.csproj|solutionrelative:userregistration\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6D16D4A0-4DA6-49B5-BEBE-AAD1DE4C8EB5}|UserRegistration\\UserRegistration.csproj|c:\\users\\ankit singh\\source\\repos\\userregistration\\userregistration\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6D16D4A0-4DA6-49B5-BEBE-AAD1DE4C8EB5}|UserRegistration\\UserRegistration.csproj|solutionrelative:userregistration\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{83ADD9B6-568F-41C0-BE27-8747C55D2D05}|RepositoryLayer\\RepositoryLayer.csproj|c:\\users\\ankit singh\\source\\repos\\userregistration\\repositorylayer\\context\\usercontext .cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{83ADD9B6-568F-41C0-BE27-8747C55D2D05}|RepositoryLayer\\RepositoryLayer.csproj|solutionrelative:repositorylayer\\context\\usercontext .cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{83ADD9B6-568F-41C0-BE27-8747C55D2D05}|RepositoryLayer\\RepositoryLayer.csproj|c:\\users\\ankit singh\\source\\repos\\userregistration\\repositorylayer\\service\\userregistrationrl.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{83ADD9B6-568F-41C0-BE27-8747C55D2D05}|RepositoryLayer\\RepositoryLayer.csproj|solutionrelative:repositorylayer\\service\\userregistrationrl.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{83ADD9B6-568F-41C0-BE27-8747C55D2D05}|RepositoryLayer\\RepositoryLayer.csproj|c:\\users\\ankit singh\\source\\repos\\userregistration\\repositorylayer\\service\\rediscacheservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{83ADD9B6-568F-41C0-BE27-8747C55D2D05}|RepositoryLayer\\RepositoryLayer.csproj|solutionrelative:repositorylayer\\service\\rediscacheservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{83ADD9B6-568F-41C0-BE27-8747C55D2D05}|RepositoryLayer\\RepositoryLayer.csproj|c:\\users\\ankit singh\\source\\repos\\userregistration\\repositorylayer\\interface\\irediscacheservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{83ADD9B6-568F-41C0-BE27-8747C55D2D05}|RepositoryLayer\\RepositoryLayer.csproj|solutionrelative:repositorylayer\\interface\\irediscacheservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{83ADD9B6-568F-41C0-BE27-8747C55D2D05}|RepositoryLayer\\RepositoryLayer.csproj|c:\\users\\ankit singh\\source\\repos\\userregistration\\repositorylayer\\interface\\iuserregistrationrl.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{83ADD9B6-568F-41C0-BE27-8747C55D2D05}|RepositoryLayer\\RepositoryLayer.csproj|solutionrelative:repositorylayer\\interface\\iuserregistrationrl.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6D16D4A0-4DA6-49B5-BEBE-AAD1DE4C8EB5}|UserRegistration\\UserRegistration.csproj|c:\\users\\ankit singh\\source\\repos\\userregistration\\userregistration\\controllers\\userregistrationcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6D16D4A0-4DA6-49B5-BEBE-AAD1DE4C8EB5}|UserRegistration\\UserRegistration.csproj|solutionrelative:userregistration\\controllers\\userregistrationcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4496C15F-4973-4D17-893B-1D37F60A74F8}|ModelLayer\\ModelLayer.csproj|c:\\users\\ankit singh\\source\\repos\\userregistration\\modellayer\\model\\registerresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4496C15F-4973-4D17-893B-1D37F60A74F8}|ModelLayer\\ModelLayer.csproj|solutionrelative:modellayer\\model\\registerresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4496C15F-4973-4D17-893B-1D37F60A74F8}|ModelLayer\\ModelLayer.csproj|c:\\users\\ankit singh\\source\\repos\\userregistration\\modellayer\\model\\registerrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4496C15F-4973-4D17-893B-1D37F60A74F8}|ModelLayer\\ModelLayer.csproj|solutionrelative:modellayer\\model\\registerrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4496C15F-4973-4D17-893B-1D37F60A74F8}|ModelLayer\\ModelLayer.csproj|c:\\users\\ankit singh\\source\\repos\\userregistration\\modellayer\\model\\loginmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4496C15F-4973-4D17-893B-1D37F60A74F8}|ModelLayer\\ModelLayer.csproj|solutionrelative:modellayer\\model\\loginmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9CCFCE3A-A63E-4650-B47F-4CC7E1E345AC}|BusinessLayer\\BusinessLayer.csproj|c:\\users\\ankit singh\\source\\repos\\userregistration\\businesslayer\\service\\userregistrationbl.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9CCFCE3A-A63E-4650-B47F-4CC7E1E345AC}|BusinessLayer\\BusinessLayer.csproj|solutionrelative:businesslayer\\service\\userregistrationbl.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9CCFCE3A-A63E-4650-B47F-4CC7E1E345AC}|BusinessLayer\\BusinessLayer.csproj|c:\\users\\ankit singh\\source\\repos\\userregistration\\businesslayer\\interface\\iuserregistrationbl.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9CCFCE3A-A63E-4650-B47F-4CC7E1E345AC}|BusinessLayer\\BusinessLayer.csproj|solutionrelative:businesslayer\\interface\\iuserregistrationbl.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{83ADD9B6-568F-41C0-BE27-8747C55D2D05}|RepositoryLayer\\RepositoryLayer.csproj|c:\\users\\ankit singh\\source\\repos\\userregistration\\repositorylayer\\entity\\userentity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{83ADD9B6-568F-41C0-BE27-8747C55D2D05}|RepositoryLayer\\RepositoryLayer.csproj|solutionrelative:repositorylayer\\entity\\userentity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4496C15F-4973-4D17-893B-1D37F60A74F8}|ModelLayer\\ModelLayer.csproj|c:\\users\\ankit singh\\source\\repos\\userregistration\\modellayer\\model\\responsebody.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4496C15F-4973-4D17-893B-1D37F60A74F8}|ModelLayer\\ModelLayer.csproj|solutionrelative:modellayer\\model\\responsebody.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9CCFCE3A-A63E-4650-B47F-4CC7E1E345AC}|BusinessLayer\\BusinessLayer.csproj|c:\\users\\ankit singh\\source\\repos\\userregistration\\businesslayer\\businesslayer.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{9CCFCE3A-A63E-4650-B47F-4CC7E1E345AC}|BusinessLayer\\BusinessLayer.csproj|solutionrelative:businesslayer\\businesslayer.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 5,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "RedisCacheService.cs",
+              "DocumentMoniker": "C:\\Users\\Ankit Singh\\source\\repos\\UserRegistration\\RepositoryLayer\\Service\\RedisCacheService.cs",
+              "RelativeDocumentMoniker": "RepositoryLayer\\Service\\RedisCacheService.cs",
+              "ToolTip": "C:\\Users\\Ankit Singh\\source\\repos\\UserRegistration\\RepositoryLayer\\Service\\RedisCacheService.cs",
+              "RelativeToolTip": "RepositoryLayer\\Service\\RedisCacheService.cs",
+              "ViewState": "AQIAAC0AAAAAAAAAAAAAAAIAAAAGAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-06T17:58:53.411Z",
+              "IsPinned": true
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "UserRegistrationRL.cs",
+              "DocumentMoniker": "C:\\Users\\Ankit Singh\\source\\repos\\UserRegistration\\RepositoryLayer\\Service\\UserRegistrationRL.cs",
+              "RelativeDocumentMoniker": "RepositoryLayer\\Service\\UserRegistrationRL.cs",
+              "ToolTip": "C:\\Users\\Ankit Singh\\source\\repos\\UserRegistration\\RepositoryLayer\\Service\\UserRegistrationRL.cs",
+              "RelativeToolTip": "RepositoryLayer\\Service\\UserRegistrationRL.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAGAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-06T17:59:16.005Z",
+              "IsPinned": true
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:129:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "20250306182446_InitialCreate.cs",
+              "DocumentMoniker": "C:\\Users\\Ankit Singh\\source\\repos\\UserRegistration\\RepositoryLayer\\Migrations\\20250306182446_InitialCreate.cs",
+              "RelativeDocumentMoniker": "RepositoryLayer\\Migrations\\20250306182446_InitialCreate.cs",
+              "ToolTip": "C:\\Users\\Ankit Singh\\source\\repos\\UserRegistration\\RepositoryLayer\\Migrations\\20250306182446_InitialCreate.cs",
+              "RelativeToolTip": "RepositoryLayer\\Migrations\\20250306182446_InitialCreate.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-06T18:24:46.346Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\Ankit Singh\\source\\repos\\UserRegistration\\UserRegistration\\appsettings.json",
+              "RelativeDocumentMoniker": "UserRegistration\\appsettings.json",
+              "ToolTip": "C:\\Users\\Ankit Singh\\source\\repos\\UserRegistration\\UserRegistration\\appsettings.json",
+              "RelativeToolTip": "UserRegistration\\appsettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAACRAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-03-06T18:00:42.661Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Ankit Singh\\source\\repos\\UserRegistration\\UserRegistration\\Program.cs",
+              "RelativeDocumentMoniker": "UserRegistration\\Program.cs",
+              "ToolTip": "C:\\Users\\Ankit Singh\\source\\repos\\UserRegistration\\UserRegistration\\Program.cs",
+              "RelativeToolTip": "UserRegistration\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABIAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-06T18:00:22.942Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "UserRegistrationController.cs",
+              "DocumentMoniker": "C:\\Users\\Ankit Singh\\source\\repos\\UserRegistration\\UserRegistration\\Controllers\\UserRegistrationController.cs",
+              "RelativeDocumentMoniker": "UserRegistration\\Controllers\\UserRegistrationController.cs",
+              "ToolTip": "C:\\Users\\Ankit Singh\\source\\repos\\UserRegistration\\UserRegistration\\Controllers\\UserRegistrationController.cs",
+              "RelativeToolTip": "UserRegistration\\Controllers\\UserRegistrationController.cs",
+              "ViewState": "AQIAAE4AAAAAAAAAAAAowAsAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-06T17:59:47.587Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "IUserRegistrationRL.cs",
+              "DocumentMoniker": "C:\\Users\\Ankit Singh\\source\\repos\\UserRegistration\\RepositoryLayer\\Interface\\IUserRegistrationRL.cs",
+              "RelativeDocumentMoniker": "RepositoryLayer\\Interface\\IUserRegistrationRL.cs",
+              "ToolTip": "C:\\Users\\Ankit Singh\\source\\repos\\UserRegistration\\RepositoryLayer\\Interface\\IUserRegistrationRL.cs",
+              "RelativeToolTip": "RepositoryLayer\\Interface\\IUserRegistrationRL.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAwBIAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-06T17:58:19.064Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "IRedisCacheService.cs",
+              "DocumentMoniker": "C:\\Users\\Ankit Singh\\source\\repos\\UserRegistration\\RepositoryLayer\\Interface\\IRedisCacheService.cs",
+              "RelativeDocumentMoniker": "RepositoryLayer\\Interface\\IRedisCacheService.cs",
+              "ToolTip": "C:\\Users\\Ankit Singh\\source\\repos\\UserRegistration\\RepositoryLayer\\Interface\\IRedisCacheService.cs",
+              "RelativeToolTip": "RepositoryLayer\\Interface\\IRedisCacheService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-06T17:57:31.39Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "UserEntity.cs",
+              "DocumentMoniker": "C:\\Users\\Ankit Singh\\source\\repos\\UserRegistration\\RepositoryLayer\\Entity\\UserEntity.cs",
+              "RelativeDocumentMoniker": "RepositoryLayer\\Entity\\UserEntity.cs",
+              "ToolTip": "C:\\Users\\Ankit Singh\\source\\repos\\UserRegistration\\RepositoryLayer\\Entity\\UserEntity.cs",
+              "RelativeToolTip": "RepositoryLayer\\Entity\\UserEntity.cs",
+              "ViewState": "AQIAAAcAAAAAAAAAAAAYwB4AAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-06T17:57:07.659Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "UserContext .cs",
+              "DocumentMoniker": "C:\\Users\\Ankit Singh\\source\\repos\\UserRegistration\\RepositoryLayer\\Context\\UserContext .cs",
+              "RelativeDocumentMoniker": "RepositoryLayer\\Context\\UserContext .cs",
+              "ToolTip": "C:\\Users\\Ankit Singh\\source\\repos\\UserRegistration\\RepositoryLayer\\Context\\UserContext .cs",
+              "RelativeToolTip": "RepositoryLayer\\Context\\UserContext .cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-06T17:56:45.362Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "ResponseBody.cs",
+              "DocumentMoniker": "C:\\Users\\Ankit Singh\\source\\repos\\UserRegistration\\ModelLayer\\Model\\ResponseBody.cs",
+              "RelativeDocumentMoniker": "ModelLayer\\Model\\ResponseBody.cs",
+              "ToolTip": "C:\\Users\\Ankit Singh\\source\\repos\\UserRegistration\\ModelLayer\\Model\\ResponseBody.cs",
+              "RelativeToolTip": "ModelLayer\\Model\\ResponseBody.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-06T17:56:09.951Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "RegisterResponse.cs",
+              "DocumentMoniker": "C:\\Users\\Ankit Singh\\source\\repos\\UserRegistration\\ModelLayer\\Model\\RegisterResponse.cs",
+              "RelativeDocumentMoniker": "ModelLayer\\Model\\RegisterResponse.cs",
+              "ToolTip": "C:\\Users\\Ankit Singh\\source\\repos\\UserRegistration\\ModelLayer\\Model\\RegisterResponse.cs",
+              "RelativeToolTip": "ModelLayer\\Model\\RegisterResponse.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-06T17:55:43.93Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "RegisterRequest.cs",
+              "DocumentMoniker": "C:\\Users\\Ankit Singh\\source\\repos\\UserRegistration\\ModelLayer\\Model\\RegisterRequest.cs",
+              "RelativeDocumentMoniker": "ModelLayer\\Model\\RegisterRequest.cs",
+              "ToolTip": "C:\\Users\\Ankit Singh\\source\\repos\\UserRegistration\\ModelLayer\\Model\\RegisterRequest.cs",
+              "RelativeToolTip": "ModelLayer\\Model\\RegisterRequest.cs",
+              "ViewState": "AQIAAAEAAAAAAAAAAAAAABIAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-06T17:55:16.046Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "LoginModel.cs",
+              "DocumentMoniker": "C:\\Users\\Ankit Singh\\source\\repos\\UserRegistration\\ModelLayer\\Model\\LoginModel.cs",
+              "RelativeDocumentMoniker": "ModelLayer\\Model\\LoginModel.cs",
+              "ToolTip": "C:\\Users\\Ankit Singh\\source\\repos\\UserRegistration\\ModelLayer\\Model\\LoginModel.cs",
+              "RelativeToolTip": "ModelLayer\\Model\\LoginModel.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-06T17:54:48.971Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "UserRegistrationBL.cs",
+              "DocumentMoniker": "C:\\Users\\Ankit Singh\\source\\repos\\UserRegistration\\BusinessLayer\\Service\\UserRegistrationBL.cs",
+              "RelativeDocumentMoniker": "BusinessLayer\\Service\\UserRegistrationBL.cs",
+              "ToolTip": "C:\\Users\\Ankit Singh\\source\\repos\\UserRegistration\\BusinessLayer\\Service\\UserRegistrationBL.cs",
+              "RelativeToolTip": "BusinessLayer\\Service\\UserRegistrationBL.cs",
+              "ViewState": "AQIAADQAAAAAAAAAAAAAADkAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-06T17:54:20.427Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "IUserRegistrationBL.cs",
+              "DocumentMoniker": "C:\\Users\\Ankit Singh\\source\\repos\\UserRegistration\\BusinessLayer\\Interface\\IUserRegistrationBL.cs",
+              "RelativeDocumentMoniker": "BusinessLayer\\Interface\\IUserRegistrationBL.cs",
+              "ToolTip": "C:\\Users\\Ankit Singh\\source\\repos\\UserRegistration\\BusinessLayer\\Interface\\IUserRegistrationBL.cs",
+              "RelativeToolTip": "BusinessLayer\\Interface\\IUserRegistrationBL.cs",
+              "ViewState": "AQIAABIAAAAAAAAAAAAAABIAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-06T17:53:34.43Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "BusinessLayer.csproj",
+              "DocumentMoniker": "C:\\Users\\Ankit Singh\\source\\repos\\UserRegistration\\BusinessLayer\\BusinessLayer.csproj",
+              "RelativeDocumentMoniker": "BusinessLayer\\BusinessLayer.csproj",
+              "ToolTip": "C:\\Users\\Ankit Singh\\source\\repos\\UserRegistration\\BusinessLayer\\BusinessLayer.csproj",
+              "RelativeToolTip": "BusinessLayer\\BusinessLayer.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-03-06T17:49:17.041Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
