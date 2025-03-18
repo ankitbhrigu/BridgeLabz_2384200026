@@ -92,3 +92,6 @@ Assignment 30, solution of Rest API Assignment uploaded on 04/03/2025
 
 Task 31:
 Assignment 31, solution of Redis Implementation uploaded on 06/03/2025
+
+Task 32: 
+Assignment 32, solutions of JavaScript Assignment uploaded on 17/03/2025
