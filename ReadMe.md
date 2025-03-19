@@ -95,3 +95,6 @@ Assignment 31, solution of Redis Implementation uploaded on 06/03/2025
 
 Task 32: 
 Assignment 32, solutions of JavaScript Assignment uploaded on 17/03/2025
+
+Task 33:
+Assignment 33, solutions of JavaScript Assignment uploaded on 18/03/2025
