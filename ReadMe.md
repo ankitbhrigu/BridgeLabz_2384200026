@@ -98,3 +98,6 @@ Assignment 32, solutions of JavaScript Assignment uploaded on 17/03/2025
 
 Task 33:
 Assignment 33, solutions of JavaScript Assignment uploaded on 18/03/2025
+
+Task 34:
+Assignment 34, solutions of HTML/CSS Assignment uploaded on 20/03/2025
